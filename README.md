@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full-Stack MERN development**
 
-- 👨‍💻 All of my projects are available at [https://moonlit-smakager-5bdadf.netlify.app](https://moonlit-smakager-5bdadf.netlify.app)
+- 👨‍💻 All of my projects are available at [https://soft-cajeta-ef6fd1.netlify.app)
 
 - 💬 Ask me about **React,JavaScript**
 
